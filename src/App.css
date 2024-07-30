@@ -136,7 +136,7 @@ input::placeholder{
 
 @media (max-width: 600px) {
     .btn {
-        width: 50px; /* Smaller buttons on smaller screens */
+        width: 40px; /* Smaller buttons on smaller screens */
         height: 45px;
         font-size: 18px;
     }
@@ -147,7 +147,7 @@ input::placeholder{
     
     .calculator {
         margin-right: 0; /* Remove margin on small screens */
-        padding: 15px;
+        padding: 5px;
     }
 }
 
